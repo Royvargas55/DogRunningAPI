@@ -37,7 +37,7 @@ but by making a better edge cases covering more bugs would have been patched.
 ## API
 #### Base URL
 ```
-GET https://dogapis.herokuapp.com
+GET https://dogrunningapi.herokuapp.com/
 ```
 
 ## Dogs
